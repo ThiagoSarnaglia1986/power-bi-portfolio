@@ -1,33 +1,46 @@
-📊 Power BI Portfolio
+# 📊 Power BI Portfolio
 
-Portfólio de dashboards desenvolvidos em Power BI, com foco em análise de dados, visualização e geração de insights.
+Portfólio de dashboards desenvolvidos em Power BI, com foco em **análise de dados, visualização e geração de insights para apoio à tomada de decisão**.
 
-Este repositório reúne projetos práticos criados para consolidar conhecimentos técnicos e demonstrar capacidade analítica aplicada a dados reais.
+Este repositório reúne projetos práticos criados para consolidar conhecimentos técnicos em Business Intelligence e demonstrar capacidade analítica aplicada a **dados reais e cenários de negócio**.
 
-🎯 Objetivo do Portfólio
+---
 
-Demonstrar habilidades em Business Intelligence para oportunidades como Analista de Dados Júnior / Power BI Júnior / Trainee, com foco em aprendizado contínuo e aplicação prática de dados no apoio à tomada de decisão.
+## 🎯 Objetivo do Portfólio
 
-🧠 Ferramentas e Tecnologias
+Demonstrar competências em **Business Intelligence e Power BI** para oportunidades como **Analista de Dados Júnior / Power BI Júnior / Trainee**, com foco em aprendizado contínuo, pensamento analítico e aplicação prática de dados.
 
-Power BI Desktop
+---
 
-Power Query
+## 🧠 Ferramentas e Tecnologias
+- Power BI Desktop  
+- Power Query  
+- Excel  
+- Modelagem de Dados (nível básico)  
+- DAX (nível inicial)
 
-Excel
+---
 
-Modelagem de Dados (nível básico)
+## 📁 Projetos
 
-DAX (nível inicial)
+| Projeto | Descrição | Status |
+|-------|----------|--------|
+| **Análise Educacional – ES** | Dashboard com indicadores educacionais do Espírito Santo, focado em métricas, visualização interativa e geração de insights |
 
-📁 Projetos
-Projeto	Descrição	Status
-Análise Educacional – ES	Análise de indicadores educacionais do Espírito Santo, com foco em visualização, métricas e insights	Em desenvolvimento
+🔹 **Novos projetos serão adicionados continuamente.**
 
-🔹 Novos projetos serão adicionados continuamente.
+---
 
-👤 Sobre Mim
+## 👤 Sobre mim
 
-Profissional em transição para a área de tecnologia, com foco em Análise de Dados e Business Intelligence.
+Profissional em transição para a área de tecnologia, com foco em **Análise de Dados e Business Intelligence**.
 
-Iniciei minha formação na área computacional durante o mestrado, a partir do qual passei a investir no desenvolvimento técnico em ferramentas de análise de dados, especialmente Power BI, buscando consolidação prática por meio de projetos aplicados e dados reais.
+Iniciei minha formação na área computacional durante o mestrado, o que despertou meu interesse por análise de dados e ferramentas de apoio à decisão. Desde então, venho investindo de forma consistente no desenvolvimento técnico em **Power BI**, aplicando conceitos de análise, visualização e storytelling por meio de **projetos práticos com dados reais**.
+
+Meu objetivo é consolidar experiência técnica e evoluir profissionalmente na área de BI, contribuindo com análises claras, estruturadas e orientadas a indicadores.
+
+---
+
+📫 **Contato**  
+- 💼 LinkedIn: https://www.linkedin.com/in/thiago-queiroz-sarnaglia  
+- 📧 Email: thiagosarnaglia@hotmail.com
