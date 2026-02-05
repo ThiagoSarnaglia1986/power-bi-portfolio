@@ -42,5 +42,5 @@ Meu objetivo é consolidar experiência técnica e evoluir profissionalmente na 
 ---
 
 📫 **Contato**  
-- 💼 [LinkedIn:] (https://www.linkedin.com/in/thiago-queiroz-sarnaglia)
-- 📧 [Email:] (thiagosarnaglia@hotmail.com)
+- 💼 [LinkedIn:](https://www.linkedin.com/in/thiago-queiroz-sarnaglia)
+- 📧 [Email:](thiagosarnaglia@hotmail.com)
