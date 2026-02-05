@@ -31,7 +31,13 @@ O objetivo do projeto é **transformar dados educacionais em informações clara
 - Taxa de abandono (%)  
 
 ---
+## ▶️ Como utilizar o dashboard
+- Utilize os filtros para selecionar município, escola ou modalidade de ensino
+- Analise as taxas de aprovação, reprovação e abandono de forma comparativa
+- Observe variações percentuais entre escolas e municípios
+- Use os indicadores para identificar possíveis pontos de atenção educacional
 
+---
 ## 🚀 Status do Projeto
 Em desenvolvimento — novas análises, melhorias visuais e indicadores adicionais serão incorporados continuamente.
 
