@@ -38,6 +38,19 @@ O objetivo do projeto é **transformar dados educacionais em informações clara
 - Use os indicadores para identificar possíveis pontos de atenção educacional
 
 ---
+## 🖼️ Visualizações do Dashboard
+
+### Visão Geral
+![Visão Geral](imagens/visao-geral.png)
+
+### Indicadores Educacionais
+![Indicadores](imagens/indicadores.png)
+
+### Análise por Município / Escola
+![Filtros](imagens/filtros.png)
+
+
+---
 ## 🚀 Status do Projeto
 Em desenvolvimento — novas análises, melhorias visuais e indicadores adicionais serão incorporados continuamente.
 
